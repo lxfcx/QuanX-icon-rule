@@ -1,5 +1,5 @@
 # 更新日期：2024年3月6日 12:47:14
-TG频道：https://t.me/Loon_Quanx   有需要适配的图标可以在频道内反馈
+TG频道：https://t.me/lxfcx8   有需要适配的图标可以在频道内反馈
 ### 项目简介：
 圈x和loon自用图标和规则备份，也会更新一些新的东西出来。图标包括应用图标和部分机场logo。
 ## 图标：  
@@ -7,7 +7,7 @@ TG频道：https://t.me/Loon_Quanx   有需要适配的图标可以在频道内�
 ## 使用教程：   
 复制下面的这个链接  
 ```ruby
-https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/ligeicon.json
+https://raw.githubusercontent.com/xiaoerlang1994/QuanX-icon-rule/main/xiaoerlang1994.json
 ```  
 长按某个策略组或者订阅，选择图标  
 ![示例图片](https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/jiaochen/IMG_0104.jpeg)  
